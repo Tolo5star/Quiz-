@@ -1,0 +1,42 @@
+[
+{
+"question":"Best Player for the season 14/15",
+"answers":["Alexis Sanchez","Harry Kane","Eden Hazard","KDB"],
+"correctAnswer": "Eden Hazard"},
+{
+"question":"Winners of the season 15/16",
+"answers":["Arsenal","Spurs","Chelsea","leicester city"],
+"correctAnswer": "leicester city"},
+{
+"question":"Best Coach of Serie A in 17/18 season",
+"answers":["Maurizio Sarri","Massimillano Allegri","Antonio Conte","A.Ventura"],
+"correctAnswer": "Maurizio Sarri"},
+{
+"question":"Best Keeper of the World Cup",
+"answers":["Thibaut Courtois","Kepa Arrizabalaga","Jordan Pickford","Subasic"],
+"correctAnswer":"Thibaut Courtois"},
+{
+"question":"Chelsea's new manager for 18/19 season",
+"answers":["A","Maurizio Sarri","C","D"],
+"correctAnswer": "Maurizio Sarri"},
+{
+"question":"Best Coach",
+"answers":["Maurizio Sarri","B","C","D"],
+"correctAnswer": "Maurizio Sarri"},
+{
+"question":"Best Coach",
+"answers":["Maurizio Sarri","B","C","D"],
+"correctAnswer": "Maurizio Sarri"},
+{
+"question":"Best Coach",
+"answers":["Maurizio Sarri","B","C","D"],
+"correctAnswer": "Maurizio Sarri"},
+{
+"question":"Best Coach",
+"answers":["Maurizio Sarri","B","C","D"],
+"correctAnswer": "Maurizio Sarri"},
+{
+"question":"Best Coach",
+"answers":["Maurizio Sarri","B","C","D"],
+"correctAnswer": "Maurizio Sarri"}
+]
